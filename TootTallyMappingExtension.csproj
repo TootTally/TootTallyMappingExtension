@@ -2,8 +2,8 @@
 
 	<PropertyGroup>
 		<TargetFramework>net472</TargetFramework>
-		<AssemblyName>TootTally.ModuleTemplate</AssemblyName>
-		<Description>TootTally Module Template</Description>
+		<AssemblyName>TootTallyMappingExtension</AssemblyName>
+		<Description>TootTally's extra mapping options for charts</Description>
 		<Version>0.1.0</Version>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<LangVersion>latest</LangVersion>
